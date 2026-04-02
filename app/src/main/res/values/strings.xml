@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="x_0_y_0">Нахил X: 0 | Y: 0</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
